@@ -274,13 +274,14 @@
     }
     .about-container .title{
         font-size: 16px;
+        height:10%;
     }
     .about-container{
         width:100%;
         height:2500px;
     }
     .about-container .information{
-        height:50%;
+        height:40%;
     }
     .about-container .information .left1{
         /* flex-direction: column */
