@@ -281,7 +281,7 @@
         height:2500px;
     }
     .about-container .information{
-        height:40%;
+        height:80%;
     }
     .about-container .information .left1{
         /* flex-direction: column */
