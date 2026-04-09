@@ -274,7 +274,6 @@
     }
     .about-container .title{
         font-size: 16px;
-        height:10%;
     }
     .about-container{
         width:100%;
@@ -298,6 +297,7 @@
     }
     .about-container .information:nth-child(3){
         flex-direction: column-reverse;
+        padding-top:50px;
     }
     .service-container{
         width:100%;
